@@ -4,8 +4,7 @@
      
     int main() {
     	int num;
-    	cin >> num;										// Reading input from STDIN
-    	// Writing output to STDOUT
+    	cin >> num;										
      
     	while(num--){
     		int a,b,c,d,e,f;
